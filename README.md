@@ -5,9 +5,11 @@
 - send an email my my gmail account, otherwise, continue checking.
 
 ## initial setup
+```
 pip install playwright
 playwright install
 pip install bs4
+```
 
 ##how to run
 `python .\tracker.py`
